@@ -1,0 +1,24 @@
+ChangeLog
+=========
+
+v0.1.0
+------
+
+* Первая версия
+
+v0.1.1
+------
+
+* Добавлен аргумент --limit-member-count
+* bug fixes
+
+next
+----
+
+* добавлен аргумент --scan-time-limit
+* добавлен аргумент --enable-scan-himself
+* добавлен аргумент --disable-scan-walls
+* добавлен аргумент --disable-scan-photos
+* добавлен аргумент --disable-scan-photocomments
+* добавлен аргумент --disable-scan-videos
+* добавлен аргумент --disable-scan-topics
