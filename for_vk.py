@@ -1,3 +1,6 @@
+material of https://github.com/AlekseyDurachenko/vkdevastator
+
+
 5603207
 
 
@@ -18,3 +21,6 @@ python ./vksearchactivities.py --access-token b573f43b7d46841e677b35011f10a07dfe
 
 
 python ./vksearchactivities.py --access-token b573f43b7d46841e677b35011f10a07dfec563f7774dc1dd593c2036da80d340ac9335ea5a6c4ee3a438d --target-id 153597 --state-file state.txt --activities-file activities.txt --activities-detail-file detail.txt --search-user-depth 1 --search-group-depth 2 --limit-member-count 1000
+
+python ./vkdeleteactivities.py --access-token b573f43b7d46841e677b35011f10a07dfec563f7774dc1dd593c2036da80d340ac9335ea5a6c4ee3a438d --activities-file activities.txt
+
