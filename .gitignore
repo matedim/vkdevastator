@@ -2,7 +2,7 @@
 
 # C extensions
 *.so
-src/*.txt
+# src/*.txt
 # Packages
 *.egg
 *.egg-info
